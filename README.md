@@ -1,5 +1,5 @@
 # API .net com mongodb e swagger
-## Exemplo retirado do lab "Construindo um projeto de uma API.net integrada ao MongoDB".
+## Exemplo retirado do lab "Construindo um projeto de uma API.net integrada ao MongoDB" realizado pela Digital Innovation One e Gabriel Faraday.
 ### Adicionado Swagger para facilitar operações de CRUD em testes sem necessidade de outras ferramentas.
 ### Para executar a aplicação com .net core 3.1.x por linha de comando: dotnet run.
 ### URL para acesso à API: http://localhost:5001/infectado.
